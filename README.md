@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venky</h1>
-<h3 align="center">A passionate Full Stack developer from San Jose 🌉🌞🌴💻</h3>
+<h3 align="center">A passionate Full Stack developer from San Jose, CA 🌉🌞🌴💻</h3>
 
 - 🔭 I’m currently working on [**Image Captioning using Reinforcement Learning**](https://scholarworks.sjsu.edu/etd_projects/1225/)
 
