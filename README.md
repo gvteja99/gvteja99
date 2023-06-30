@@ -3,7 +3,7 @@
 
 <p>
 </br>
-  <img align="right" alt="Coding" width="35%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
+  <img align="right" alt="Coding" width="35%" src="https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif">  
 
 
 - 🔭 I’m currently working on [Image Captioning using Reinforcement Learning](https://scholarworks.sjsu.edu/etd_projects/1225/)
