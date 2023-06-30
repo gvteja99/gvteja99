@@ -3,8 +3,10 @@
 
 <p>
 </br>
+  <!---
   <img align="right" alt="Coding" width="35%" src="https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif">  
-
+  --->
+  <img align="right" alt="Computer" width="35%" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif">
 
 - 🔭 I’m currently working on [**Image Captioning using Reinforcement Learning**](https://scholarworks.sjsu.edu/etd_projects/1225/)
 
@@ -24,6 +26,8 @@
 <h2 align="left">💻Technical Skills<p></p></h2>
 
 <h3 align="left">Programming Languages:</h3>
+  <img align="right" alt="Rabbit" width="35%" src="https://31.media.tumblr.com/76470f55efbc8cc7ec81778d18febc91/tumblr_mwn4rvyG4O1t2jjpjo1_500.gif">  
+
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -80,6 +84,9 @@
 </p>
 
 <h3 align="left">Backend Development:</h3>
+
+  <img align="right" alt="Dog" width="25%" src="https://thumbs.gfycat.com/AggravatingQuaintBittern-max-1mb.gif">  
+
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
@@ -127,6 +134,10 @@
 </p>
 
 <h3 align="left">Databases:</h3>
+
+  <img align="right" alt="Panda Gaming" width="25%" src="https://i.pinimg.com/originals/3e/7a/b1/3e7ab14520d55d6ed17faf7cad0b2927.gif">  
+
+
 <p align="left">
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
@@ -152,6 +163,9 @@
 </p>
 
 <h3 align="left">Cloud & DevOps:</h3>
+
+
+
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -180,6 +194,7 @@
 </p>
 
 <h3 align="left">Data Science & Machine Learning:</h3>
+
 <p align="left">
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -205,6 +220,9 @@
 </p>
 
 <h3 align="left">Testing:</h3>
+
+<img align="right" alt="Totoro sleeping" width="40%" src="https://24.media.tumblr.com/34890facd6def1b3e9f7a6771068020b/tumblr_mkkdo2Gw7d1rfjowdo1_500.gif">
+
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
@@ -253,9 +271,6 @@
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
