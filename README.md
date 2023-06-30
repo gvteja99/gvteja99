@@ -204,7 +204,7 @@
   </a>
 </p>
 
-<h3 align="left">Testing</h3>
+<h3 align="left">Testing:</h3>
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
@@ -214,7 +214,7 @@
   </a>
 </p>
 
-<h3 align="left">Static Site Generators</h3>
+<h3 align="left">Static Site Generators:</h3>
 <p align="left">
   <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
