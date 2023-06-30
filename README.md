@@ -221,7 +221,7 @@
 
 <h3 align="left">Testing:</h3>
 
-<img align="right" alt="Totoro sleeping" width="40%" src="https://24.media.tumblr.com/34890facd6def1b3e9f7a6771068020b/tumblr_mkkdo2Gw7d1rfjowdo1_500.gif">
+<img align="right" alt="Totoro sleeping" width="35%" src="https://24.media.tumblr.com/34890facd6def1b3e9f7a6771068020b/tumblr_mkkdo2Gw7d1rfjowdo1_500.gif">
 
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
