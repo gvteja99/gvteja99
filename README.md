@@ -138,6 +138,9 @@
   <img align="right" alt="Panda Gaming" width="25%" src="https://i.pinimg.com/originals/3e/7a/b1/3e7ab14520d55d6ed17faf7cad0b2927.gif">  
 
 <p align="left">
+  <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
+  </a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
   </a>
