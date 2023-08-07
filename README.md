@@ -2,10 +2,7 @@
 <h3 align="center">👨‍💻💡 Experienced Full-Stack Dev | 🧠 AI Buff | 🎓 CS Post Grad 🚀🔥</h3>
 
 <p>
-</br>
-  <!---
-  <img align="right" alt="Coding" width="35%" src="https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif">  
-  --->
+</br> 
   <img align="right" alt="Computer" width="35%" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif">
 
 - 🔭 I’m currently working on [**Image Captioning using Reinforcement Learning**](https://scholarworks.sjsu.edu/etd_projects/1225/)
