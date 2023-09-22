@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venky<p></p></h1>
-<h3 align="center">👨‍💻💡 Experienced Full-Stack Dev | 🧠 AI Buff | 🎓 CS Post Grad | 🔍 Looking for Full-Time Opportunities 🚀🔥</h3>
+<h3 align="center">👨‍💻💡 Experienced Full-Stack Dev | 🧠 AI Buff | 🎓 MS in CS | 🔍 Looking for Full-Time Opportunities 🚀🔥</h3>
 
 <p>
 </br> 
