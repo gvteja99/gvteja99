@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venky<p></p></h1>
 <h3 align="center">👨‍💻💡 Experienced Full-Stack Dev | 🧠 AI Buff | 🎓 MS in CS | 🔍 Looking for Full-Time Opportunities 👨‍💻</h3>
-
+ 
 <p>
 </br> 
   <img align="right" alt="Computer" width="35%" src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif">
