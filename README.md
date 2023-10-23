@@ -13,8 +13,6 @@
 
 - 📫 You can reach me at [**gvteja99@gmail.com**](mailto:gvteja99@gmail.com)
 
-- 📄 Learn about my experiences [**through my resume**](https://1drv.ms/w/c/46518cc381b30f4f/EdG1E06goDBFmzz-nE-EAGEBrClOzfQcE8CGvm8Iv7foYQ?e=m1c2eQ)
-
 - ⚡ Fun fact **🍿 I'm a certified movie buff - over 1000 films 🎥 and counting!**
 </p>
 <br/>
